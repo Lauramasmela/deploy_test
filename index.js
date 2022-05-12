@@ -1,3 +1,4 @@
+//version deploy
 const fs = require('fs');
 
 const createIndexFile = () => {
